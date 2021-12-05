@@ -1,0 +1,24 @@
+{
+  "name": "muhabir",
+  "version": "1.0.0",
+  "description": "Muhabir is a football twitter news program",
+  "main": "MuhabirDev.js",
+  "scripts": {
+    "start": "node muhabirdev.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Muhabir",
+    "Twitter",
+    "Bot",
+    "Football"
+  ],
+  "author": "Baran Ekrem Bakar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "jquery": "^3.6.0",
+    "p5": "^1.4.0",
+    "twit": "^2.2.11"
+  }
+}
